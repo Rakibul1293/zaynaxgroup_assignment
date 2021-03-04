@@ -1,0 +1,23 @@
+.footer {
+    padding: 43px 0px;
+    border-top: 1px solid #a9a9a996;
+}
+
+.footer .icon-grp {
+    padding: 0px 103px;
+}
+
+.footer .icon-grp .fa {
+    font-size: 29px !important;
+    color: #a9a9a996;
+}
+
+.footer .link-grp a {
+    color: #000;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.footer .payment-grp img {
+    height: 50%;
+}

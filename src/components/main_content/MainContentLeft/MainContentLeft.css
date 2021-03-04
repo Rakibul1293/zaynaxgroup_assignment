@@ -1,0 +1,30 @@
+.filter {
+    border-top: 1px dashed darkgray;
+}
+
+.filter .filter-header-left-btn .navbar-toggler {
+    padding: 0rem 0.4rem !important;
+    outline: none !important;
+}
+
+.filter .filter-header-right-btn .navbar-toggler {
+    padding: 0rem 0.4rem !important;
+    outline: none !important;
+}
+
+.filter .filter-header-left-btn .navbar-toggler p {
+    outline: none !important;
+}
+
+.filter .navbar-toggler:focus, .navbar-toggler:hover {
+    outline: none !important;
+}
+
+.filter .list-item label {
+    padding: 0px 9px;
+    color: #6c757dd4;
+}
+
+.filter  .list-group-item {
+    border: none;
+}
